@@ -20,6 +20,7 @@ Repository containing portfolio of data science projects completed by me for aca
 - ### Micro Projects: 
 
 
-If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, shoot an email at richieone13@gmail.com. 
+If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, feel free to contact me on: - [LinkedIn](https://www.linkedin.com/in/richieone/)
+
 
 Personal Website: http://richiewong.co.uk/
