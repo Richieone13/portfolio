@@ -1,5 +1,5 @@
 # Data Science Portfolio
-Repository containing portfolio of data science projects completed by me for academic, self learning, and hobby purposes.
+This is a repository of the projects I worked on or currently working on. It is updated regularly. The projects are either written in Python (Jupyter Notebook). The goal of the projects is to use data science/statistical modelling techniques to find something that is interesting. A typical project consist of finding and cleaning data, analysis, visualization and conclusion. Click on the projects to see full analysis and code.
 
 ## Contents
 
@@ -7,7 +7,7 @@ Repository containing portfolio of data science projects completed by me for aca
 
 - ### Data Analysis and Visualisation
 
-    - [California Dataset]: 
+    - [California Housing Dataset]: 
     -
 
 	_Tools: Pandas, Seaborn and Matplotlib_
