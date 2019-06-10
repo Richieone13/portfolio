@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# Data Science Portfolio
+Repository containing portfolio of data science projects completed by me for academic, self learning, and hobby purposes.
 
-You can use the [editor on GitHub](https://github.com/Richieone13/data_science_portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Contents
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- ### Data Analysis and Visualisation
 
-### Markdown
+    - [California Dataset](): 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+	_Tools: Pandas, Seaborn and Matplotlib_
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+- ### Machine Learning
 
-- Bulleted
-- List
+	_Tools: scikit-learn, Pandas, Seaborn, Matplotlib, Pygame_ 
+  
+- ### Micro Projects: 
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, shoot an email at richieone13@gmail.com. 
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Richieone13/data_science_portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Personal Website: http://richiewong.co.uk/
