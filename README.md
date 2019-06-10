@@ -3,16 +3,19 @@ Repository containing portfolio of data science projects completed by me for aca
 
 ## Contents
 
+- ### Data Manipulation
+
 - ### Data Analysis and Visualisation
 
-    - [California Dataset](): 
+    - [California Dataset]: 
+    -
 
 	_Tools: Pandas, Seaborn and Matplotlib_
 
 
 - ### Machine Learning
 
-	_Tools: scikit-learn, Pandas, Seaborn, Matplotlib, Pygame_ 
+	_Tools: scikit-learn, Pandas, Seaborn, Matplotlib 
   
 - ### Micro Projects: 
 
