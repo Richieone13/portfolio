@@ -9,13 +9,13 @@ Repository containing portfolio of data science projects completed for academic,
 - ### Data Analysis and Visualisation
 	- [California Housing Dataset](https://github.com/Richieone13/data_science_portfolio/blob/master/Ageron_Handsom-ml.ipynb): This is a dataset from O'reilly textbook, for the Califorina Housing Market. I learnt different libraries using Python, i.e. importing, understanding and visualising the data. There are 20640 instances and 10 attributes in the dataset. The motivation of this exercise is to allow to explore different methodologies of making use of the dataset and finding interesting insight.
 
-	_Tools: Pandas, numpy and Matplotlib
+	_Tools: Pandas, numpy and Matplotlib_
 
 
 - ### Machine Learning
 	- (Working in Progress)
 
-	_Tools: scikit-learn, Pandas, Seaborn, Matplotlib 
+	_Tools: scikit-learn, Pandas, Seaborn, Matplotlib_
   
 - ### Micro Projects: 
 	- (Working in Progress)
