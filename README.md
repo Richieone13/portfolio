@@ -31,9 +31,6 @@ Business applications within Machine Learning space
 	- Titanic Dataset (predicting survial of passenger)
 
 	_Tools: scikit-learn, Pandas, Seaborn, Matplotlib_
-  
-- ### Micro Projects (interesting datasets Working in Progress)
-
 
 
 	
