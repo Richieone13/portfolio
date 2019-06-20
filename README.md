@@ -25,7 +25,7 @@ Applications of visualisation with graphs using financial dataset
 <img src="California_Housing_Dataset/Household_Income_California_Graph.png" width="500">
 
 - ### Machine Learning
-	- [Credit Card Fraud Detection:](https://www.kaggle.com/mlg-ulb/creditcardfraud.ipynb)
+	- [Credit Card Fraud Detection:](https://www.kaggle.com/mlg-ulb/creditcardfraud)
 Business applications within Machine Learning space
 	- Churn Model for retaining staff/customers
 	- Titanic Dataset (predicting survial of passenger)
