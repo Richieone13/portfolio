@@ -11,7 +11,7 @@ Personal Website: http://richiewong.co.uk/
 
 	_Tools: Pandas, numpy and Matplotlib_
 
-	- [Loan Prediction Expected Completion Early July 19 (Working In Progress):](https://github.com/Richieone13/data_science_portfolio/blob/master/LoanPrediction/Loan%20Prediction%20for%20Mortgage.ipynb)
+	- [Loan Prediction - Expected Completion Early July 19 (Working In Progress):](https://github.com/Richieone13/data_science_portfolio/blob/master/LoanPrediction/Loan%20Prediction%20for%20Mortgage.ipynb)
 	It has application in retail banking/finance, I believe it is a legal requirement in some countries to explain to the applicant why the loan was declined, and you can drill down and based on xyz, your loan is declined. 
 
 
