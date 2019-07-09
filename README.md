@@ -19,7 +19,7 @@ _Tools: Pandas, numpy, Matplotlib, seaborn, Scikit Learn_
 
 ---
 
-## [Spotify User Playlist:](https://github.com/Richieone13/data_science_portfolio/blob/master/Spotify_Classifier/Spotify_EDA_DecisionTree.ipynb) 
+### [Spotify User Playlist:](https://github.com/Richieone13/data_science_portfolio/blob/master/Spotify_Classifier/Spotify_EDA_DecisionTree.ipynb) 
 * To peform Exploratory Data Analysis on the song [dataset.](https://www.kaggle.com/geomack/spotifyclassification) 
 * Building a decision tree model to predict whether the user likes or dislike songs. [(tutorial)](https://www.youtube.com/watch?v=v_sPnwoT_iA)
 
@@ -27,12 +27,12 @@ _Tools: Pandas, numpy, Matplotlib, seaborn, Scikit Learn_
 
 ---
 
-### [Loan Prediction - WIP:](https://github.com/Richieone13/data_science_portfolio/blob/master/LoanPrediction/Loan%20Prediction%20for%20Mortgage.ipynb)
+### [Loan Prediction - (WIP):](https://github.com/Richieone13/data_science_portfolio/blob/master/LoanPrediction/Loan%20Prediction%20for%20Mortgage.ipynb)
 * To be able to predict whether the applicant will be eligible for a loan.
 
 ---
 
-## Upcoming Projects
+### Upcoming Projects
 
 * Churn Model to Retain Exisiting Customers (Start July 19): A subscription model or sign up model
 * Stock Market Prediction (Start Mid July 19): Applications of visualisation with graphs using financial dataset. Intend to directly load from Yahoo.
