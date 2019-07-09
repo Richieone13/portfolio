@@ -5,38 +5,35 @@ If you liked what you saw, want to have a chat with me about the portfolio, work
 
 Personal Website: http://richiewong.co.uk/
 
-## Contents
+_Tools: Pandas, numpy, Matplotlib, seaborn, Scikit Learn_
 
-- ### Data Analysis and Visualisation
+## Projects:
 
-	_Tools: Pandas, numpy and Matplotlib_
+### [Predicting House Prices:](https://github.com/Richieone13/data_science_portfolio/blob/master/California_Housing_Dataset/California_Housing_Exploration.ipynb) 
+* Predicting Califorina Housing Market
+* End to end machine learning project
+* This is a dataset from O'Reilly textbook (Hands-On Machine Learning with Scikit-Learn & TensorFlow) 
 
-	- [Loan Prediction - Expected Completion Early July 19 (Working In Progress):](https://github.com/Richieone13/data_science_portfolio/blob/master/LoanPrediction/Loan%20Prediction%20for%20Mortgage.ipynb)
-	To be able to predict whether the applicant will be eligible for a loan.
+<img src="California_Housing_Dataset/Household_Income_California_Graph.png" width="500">
 
+---
 
-	- [California Housing Dataset (Complete):](https://github.com/Richieone13/data_science_portfolio/blob/master/California_Housing_Dataset/California_Housing_Exploration.ipynb) This is a dataset from O'Reilly textbook (Hands-On Machine Learning with Scikit-Learn & TensorFlow) on the Califorina Housing Market.The motivation of this exercise is to carry out and end to end machine learning project.
-	
-	<img src="California_Housing_Dataset/Household_Income_California_Graph.png" width="500">
+## [Spotify EDA & Decision Tree:](https://github.com/Richieone13/data_science_portfolio/blob/master/Spotify_Classifier/Spotify_EDA_DecisionTree.ipynb) 
+* To peform Exploratory Data Analysis on the song [dataset.](https://www.kaggle.com/geomack/spotifyclassification) 
+* Building a decision tree model to predict whether the user likes or dislike songs. [(tutorial)](https://www.youtube.com/watch?v=v_sPnwoT_iA)
 
-- ### Mini-Projects
-	
-	_Tools: Pandas, numpy, scikit-learn, Matplotlib_
-	
-	- [Machine Learning with Python - Spotify EDA & Decision Tree (Complete):](https://github.com/Richieone13/data_science_portfolio/blob/master/Spotify_Classifier/Spotify_EDA_DecisionTree.ipynb) To peform Exploratory Data Analysis on the song [dataset.](https://www.kaggle.com/geomack/spotifyclassification) and building a decision tree model to predict whether the user likes or dislike songs. [Tutorial:](https://www.youtube.com/watch?v=v_sPnwoT_iA)
+<img src="Spotify_DecisionTree.png" width="500">
 
-	<img src="Spotify_DecisionTree.png" width="500">
+---
 
-- ### Machine Learning
-
-	_Tools: Pandas, numpy, scikit-learn, Matplotlib_
-
-	- Churn Model to Retain Exisiting Customers (Start July 19):
-	A subscription model or sign up model
-	- Stock Market Prediction (Start Mid July 19):
-	Applications of visualisation with graphs using financial dataset. Intend to directly load from Yahoo.
-	- [Credit Card Fraud Detection: (Start Aug 19)](https://www.kaggle.com/mlg-ulb/creditcardfraud)
+### [Loan Prediction - WIP:](https://github.com/Richieone13/data_science_portfolio/blob/master/LoanPrediction/Loan%20Prediction%20for%20Mortgage.ipynb)
+* To be able to predict whether the applicant will be eligible for a loan.
 
 
+---
 
-	
+## Upcoming Projects
+
+* Churn Model to Retain Exisiting Customers (Start July 19): A subscription model or sign up model
+* Stock Market Prediction (Start Mid July 19): Applications of visualisation with graphs using financial dataset. Intend to directly load from Yahoo.
+* [Credit Card Fraud Detection: (Start Aug 19)](https://www.kaggle.com/mlg-ulb/creditcardfraud)
