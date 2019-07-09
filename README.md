@@ -20,10 +20,16 @@ _Tools: Pandas, numpy, Matplotlib, seaborn, Scikit Learn_
 ---
 
 ### [Spotify User Playlist:](https://github.com/Richieone13/data_science_portfolio/blob/master/Spotify_Classifier/Spotify_EDA_DecisionTree.ipynb) 
-* To peform Exploratory Data Analysis on the song [dataset.](https://www.kaggle.com/geomack/spotifyclassification) 
+* Exploratory Data Analysis on the song dataset
 * Building a decision tree model to predict whether the user likes or dislike songs. [(tutorial)](https://www.youtube.com/watch?v=v_sPnwoT_iA)
 
 <img src="Spotify_DecisionTree.png" width="500">
+
+---
+### [TEDTalk:](https://github.com/Richieone13/data_science_portfolio/blob/master/TedTalk/TedTalk_EDA.ipynb) 
+* Exploratory Data Analysis on the Dataset
+* Uses pandas to answer questions about a real-world dataset. Each exercises
+* Goes through important data science skills as well as "best practices" for using pandas
 
 ---
 
