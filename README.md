@@ -19,9 +19,20 @@ Personal Website: http://richiewong.co.uk/
 	
 	<img src="California_Housing_Dataset/Household_Income_California_Graph.png" width="500">
 
+- ### Mini-Projects
+	
+	_Tools: Pandas, numpy, scikit-learn, Matplotlib_
+	
+	- Machine Learning with Python - Spotify EDA & Decision Tree
+	
+	To peform Exploratory Data Analysis on the song [dataset.](https://www.kaggle.com/geomack/spotifyclassification)
+	and building a decision tree model to predict whether the user likes or dislike songs.
+	https://www.youtube.com/watch?v=v_sPnwoT_iA
+
+
 - ### Machine Learning
 
-	_Tools: Pandas, numpy and Matplotlib_
+	_Tools: Pandas, numpy, scikit-learn, Matplotlib_
 
 	- Churn Model to Retain Exisiting Customers (Start July 19):
 	A subscription model or sign up model
