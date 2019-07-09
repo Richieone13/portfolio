@@ -23,8 +23,9 @@ Personal Website: http://richiewong.co.uk/
 	
 	_Tools: Pandas, numpy, scikit-learn, Matplotlib_
 	
-	- Machine Learning with Python - Spotify EDA & Decision Tree. To peform Exploratory Data Analysis on the song [dataset.](https://www.kaggle.com/geomack/spotifyclassification) and building a decision tree model to predict whether the user likes or dislike songs. https://www.youtube.com/watch?v=v_sPnwoT_iA
+	- [Machine Learning with Python - Spotify EDA & Decision Tree:](https://github.com/Richieone13/data_science_portfolio/blob/master/Spotify_Classifier/Spotify_EDA_DecisionTree.ipynb) To peform Exploratory Data Analysis on the song [dataset.](https://www.kaggle.com/geomack/spotifyclassification) and building a decision tree model to predict whether the user likes or dislike songs. [Tutorial:](https://www.youtube.com/watch?v=v_sPnwoT_iA)
 
+	<img src="Spotify_DecisionTree.png" width="500">
 
 - ### Machine Learning
 
