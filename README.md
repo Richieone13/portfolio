@@ -34,7 +34,7 @@ _Tools: Pandas, numpy, Matplotlib, seaborn, Scikit Learn_
 
 ### Upcoming Projects
 
-* [Credit Card Fraud Detection: (Start Aug 19)](https://www.kaggle.com/mlg-ulb/creditcardfraud)
-* Churn Model to Retain Exisiting Customers (Start July 19): A subscription model or sign up model
-* Stock Market Prediction (Start Mid July 19): Applications of visualisation with graphs using financial dataset. Intend to directly load from Yahoo.
+* [Credit Card Fraud Detection:](https://www.kaggle.com/mlg-ulb/creditcardfraud)
+* Churn Model to Retain Exisiting Customers: A subscription model or sign up model
+* Stock Market Prediction: Applications of visualisation with graphs using financial dataset. Intend to directly load from Yahoo.
 
