@@ -26,8 +26,8 @@ mpl.rc('ytick', labelsize=12)
 
 # Where to save the figures
 PROJECT_ROOT_DIR = "."
-CHAPTER_ID = "end_to_end_project"
-IMAGES_PATH = os.path.join(PROJECT_ROOT_DIR, "images", CHAPTER_ID)
+CHAPTER_ID = "images"
+IMAGES_PATH = os.path.join(PROJECT_ROOT_DIR, "", CHAPTER_ID)
 
 # Function to save figures
 def save_fig(fig_id, tight_layout=True, fig_extension="png", resolution=300):
@@ -188,7 +188,8 @@ compare_props
 
 for set_ in (strat_train_set, strat_test_set):
     set_.drop("income_cat", axis=1, inplace=True)
-
+#Now removing the income attribute class which is at the end of the 'strat_test_set' and 'test_set'
+    
 # __________________________________________________________________________________________
 # Discover and visualize the data to gain insights
 
@@ -212,7 +213,7 @@ save_fig("housing_prices_scatterplot")
 
 #plot of lat and long with population size and map
 import matplotlib.image as mpimg
-california_img=mpimg.imread(PROJECT_ROOT_DIR + '/images/end_to_end_project/california.png')
+california_img=mpimg.imread(PROJECT_ROOT_DIR + '/images/california.png')
 ax = housing.plot(kind="scatter", x="longitude", y="latitude", figsize=(10,7),
                        s=housing['population']/100, label="Population",
                        c="median_house_value", cmap=plt.get_cmap("jet"),
@@ -233,6 +234,8 @@ plt.show()
 
 corr_matrix = housing.corr()
 corr_matrix["median_house_value"].sort_values(ascending=False)
+#This uses the Pearson's r . between every pair of attributes
+#Only measures linear correlations - may miss nonlinear relationships
 # Correlation with median_house_value
 # median_house_value    1.000000
 # median_income         0.687160
@@ -409,7 +412,6 @@ num_pipeline = Pipeline([
     ])
 
 housing_num_tr = num_pipeline.fit_transform(housing_num)
-
 housing_num_tr
 
 try:
@@ -426,7 +428,6 @@ full_pipeline = ColumnTransformer([
     ])
 
 housing_prepared = full_pipeline.fit_transform(housing)
-
 housing_prepared
 
 housing_prepared.shape
@@ -475,7 +476,7 @@ old_housing_prepared
 np.allclose(housing_prepared, old_housing_prepared)
 """
 # __________________________________________________________________________________________
-# Select and train a model - FINALLY
+# Select and train the models - FINALLY
 
 from sklearn.linear_model import LinearRegression
 
@@ -588,6 +589,7 @@ param_grid = [
     # min_samples_leaf = min number of data points allowed in a leaf node
     {'bootstrap': [False], 'n_estimators': [3, 10], 'max_features': [2, 3, 4]},
   ]
+
 forest_reg = RandomForestRegressor(random_state=42)
 # train across 5 folds, that's a total of (12+6)*5=90 rounds of training 
 grid_search = GridSearchCV(forest_reg, param_grid, cv=5,
@@ -673,7 +675,6 @@ final_predictions = final_model.predict(X_test_prepared)
 
 final_mse = mean_squared_error(y_test, final_predictions)
 final_rmse = np.sqrt(final_mse)
-
 final_rmse
 # rmse 47730.22690385927
 
@@ -697,3 +698,24 @@ np.sqrt(mean - tmargin), np.sqrt(mean + tmargin)
 zscore = stats.norm.ppf((1 + confidence) / 2)
 zmargin = zscore * squared_errors.std(ddof=1) / np.sqrt(m)
 np.sqrt(mean - zmargin), np.sqrt(mean + zmargin)
+
+# __________________________________________________________________________________________
+# AlternativeModels - SVR GridSearch
+
+from sklearn.model_selection import GridSearchCV
+
+param_grid = [
+        {'kernel': ['linear'], 'C': [10., 30., 100., 300., 1000., 3000., 10000., 30000.0]},
+        {'kernel': ['rbf'], 'C': [1.0, 3.0, 10., 30., 100., 300., 1000.0],
+         'gamma': [0.01, 0.03, 0.1, 0.3, 1.0, 3.0]},
+    ]
+svm_reg = SVR()
+grid_search = GridSearchCV(svm_reg, param_grid, cv=5, scoring='neg_mean_squared_error', verbose=2, n_jobs=4)
+grid_search.fit(housing_prepared, housing_labels)
+
+negative_mse = grid_search.best_score_
+rmse = np.sqrt(-negative_mse)
+rmse
+# 70363.90 - Worst peformance than RandomForestRegression
+
+grid_search.best_params_
