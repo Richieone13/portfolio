@@ -19,8 +19,8 @@ _Tools: Pandas, numpy, Matplotlib, seaborn, Scikit Learn_
 ---
 
 ### [Spotify User Playlist:](https://github.com/Richieone13/data_science_portfolio/blob/master/Spotify_Classifier/Spotify_EDA_DecisionTree.ipynb) 
-* Exploratory Data Analysis on the song
-* Building a decision tree model to predict whether the user likes or dislike songs
+* Exploratory Data Analysis for songs in Spotify
+* 72% accuracy to be able to predict whether the person likes or dislikes a song using Decision Tree
 
 <img src="Spotify_Classifier/Spotify_DecisionTree.png" width="500" height="500">
 
