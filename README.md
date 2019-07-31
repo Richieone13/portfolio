@@ -28,7 +28,7 @@ _Tools: Pandas, numpy, Matplotlib, seaborn, Scikit Learn_
 ### [TEDTalk Insights:](https://github.com/Richieone13/data_science_portfolio/blob/master/TedTalk/TedTalk_EDA.ipynb) 
 * Exploratory Data Analysis on the Dataset
 * Uses pandas to answer questions about a real-world datasets - "best practices" for using pandas
-* Being able to answer interesting questions like:
+* Answering interesting questions like:
   - What were the "best" events in TED history to attend?
   - Which TedTalk provoke the most online discussion?
   - Which occupations deliver the funniest TED talks on average?
