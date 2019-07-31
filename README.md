@@ -27,8 +27,11 @@ _Tools: Pandas, numpy, Matplotlib, seaborn, Scikit Learn_
 ---
 ### [TEDTalk Insights:](https://github.com/Richieone13/data_science_portfolio/blob/master/TedTalk/TedTalk_EDA.ipynb) 
 * Exploratory Data Analysis on the Dataset
-* Uses pandas to answer questions about a real-world dataset. Each exercises
-* Goes through important data science skills as well as "best practices" for using pandas
+* Uses pandas to answer questions about a real-world datasets - "best practices" for using pandas
+* Answer questions like:
+  - What were the "best" events in TED history to attend?
+  - Which TedTalk provoke the most online discussion?
+  - Which occupations deliver the funniest TED talks on average?
 
 ---
 
@@ -42,4 +45,3 @@ _Tools: Pandas, numpy, Matplotlib, seaborn, Scikit Learn_
 * [Credit Card Fraud Detection:](https://www.kaggle.com/mlg-ulb/creditcardfraud)
 * Churn Model to Retain Exisiting Customers: A subscription model or sign up model
 * Stock Market Prediction: Applications of visualisation with graphs using financial dataset. Intend to directly load from Yahoo.
-
