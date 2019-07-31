@@ -29,6 +29,7 @@ _Tools: Pandas, numpy, Matplotlib, seaborn, Scikit Learn_
 * Exploratory Data Analysis on the Dataset
 * Uses pandas to answer questions about a real-world datasets - "best practices" for using pandas
 * Answer questions like:
+
   - What were the "best" events in TED history to attend?
   - Which TedTalk provoke the most online discussion?
   - Which occupations deliver the funniest TED talks on average?
