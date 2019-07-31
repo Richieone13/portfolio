@@ -33,6 +33,8 @@ _Tools: Pandas, numpy, Matplotlib, seaborn, Scikit Learn_
   - Which TedTalk provoke the most online discussion?
   - Which occupations deliver the funniest TED talks on average?
 
+<img src="TedTalk/ted-logo-fb.png" width="571" height="300">
+
 ---
 
 ### [Loan Prediction - (WIP):](https://github.com/Richieone13/data_science_portfolio/blob/master/LoanPrediction/Loan%20Prediction%20for%20Mortgage.ipynb)
