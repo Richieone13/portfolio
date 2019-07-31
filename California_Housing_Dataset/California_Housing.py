@@ -1,4 +1,6 @@
 # To predict median house values in Californian district
+# Dataset from O'Reilly textbook (Hands-On Machine Learning with Scikit-Learn & TensorFlow) 
+
 # Modified by Richie Wong
 
 # __________________________________________________________________________________________
