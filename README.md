@@ -15,7 +15,7 @@ _Tools: Pandas, numpy, Matplotlib, seaborn, Scikit Learn_
 * Undertaking: Data Cleaning, One-Hot Encoding, Cross Validation, GridSearch
 * Dataset from O'Reilly textbook (Hands-On Machine Learning with Scikit-Learn & TensorFlow) 
 
-<img src="California_Housing_Dataset/Household_Income_California_Graph.png" width="500">
+<img src="California_Housing_Dataset/images/california_housing_prices_plot.png" width="500">
 
 ---
 
