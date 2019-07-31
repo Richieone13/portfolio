@@ -33,7 +33,7 @@ _Tools: Pandas, numpy, Matplotlib, seaborn, Scikit Learn_
   - Which TedTalk provoke the most online discussion?
   - Which occupations deliver the funniest TED talks on average?
 
-<img src="TedTalk/ted-logo-fb.png" width="571" height="300">
+<img src="TedTalk/ted-logo-fb.png" width="476" height="250">
 
 ---
 
