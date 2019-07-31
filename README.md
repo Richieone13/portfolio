@@ -19,8 +19,8 @@ _Tools: Pandas, numpy, Matplotlib, seaborn, Scikit Learn_
 ---
 
 ### [Spotify User Playlist:](https://github.com/Richieone13/data_science_portfolio/blob/master/Spotify_Classifier/Spotify_EDA_DecisionTree.ipynb) 
-* Exploratory Data Analysis on the song [dataset](https://www.kaggle.com/geomack/spotifyclassification)
-* Building a decision tree model to predict whether the user likes or dislike songs. [(tutorial)](https://www.youtube.com/watch?v=v_sPnwoT_iA)
+* Exploratory Data Analysis on the song
+* Building a decision tree model to predict whether the user likes or dislike songs
 
 <img src="Spotify_Classifier/Spotify_DecisionTree.png" width="500" height="500">
 
@@ -33,7 +33,7 @@ _Tools: Pandas, numpy, Matplotlib, seaborn, Scikit Learn_
 ---
 
 ### [Loan Prediction - (WIP):](https://github.com/Richieone13/data_science_portfolio/blob/master/LoanPrediction/Loan%20Prediction%20for%20Mortgage.ipynb)
-* To be able to predict whether the applicant will be eligible for a loan.
+* To be able to predict whether the applicant will be eligible for a loan
 
 ---
 
