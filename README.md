@@ -40,6 +40,8 @@ _Tools: Pandas, numpy, Matplotlib, seaborn, Scikit Learn_
 ### [Loan Prediction - (WIP):](https://github.com/Richieone13/data_science_portfolio/blob/master/LoanPrediction/Loan%20Prediction%20for%20Mortgage.ipynb)
 * To be able to predict whether the applicant will be eligible for a loan
 
+<img src="LoanPrediction/Images/tierra-mallorca-rgJ1J8SDEAY-unsplash.png" width="500" height="375">
+
 ---
 
 ### Upcoming Projects
