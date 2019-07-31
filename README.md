@@ -11,9 +11,9 @@ _Tools: Pandas, numpy, Matplotlib, seaborn, Scikit Learn_
 
 ### [Predicting House Prices:](https://github.com/Richieone13/data_science_portfolio/blob/master/California_Housing_Dataset/California_Housing_Exploration.ipynb) 
 * Predicting Califorina Housing Market
-* Linear Regression Model - End to end machine learning project
-* Undertaking: Data Cleaning, One-Hot Encoding, Cross Validation, GridSearch
-* Dataset from O'Reilly textbook (Hands-On Machine Learning with Scikit-Learn & TensorFlow) 
+* End to end machine learning project
+* Comparison of performance in different ML models, incl. Linear Regression Model, SVR, DecisionTree, RandomForest
+* Undertaking: Data Cleaning, One-Hot Encoding, Cross Validation, GridSearch, RandomizeGridSearch
 
 <img src="California_Housing_Dataset/images/california_housing_prices_plot.png" width="500">
 
