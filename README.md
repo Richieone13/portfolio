@@ -35,7 +35,7 @@ _Tools: Pandas, numpy, Matplotlib, seaborn, Scikit Learn_
 <img src="Spotify_Classifier/Spotify_DecisionTree.png" width="500" height="500">
 
 ---
-### [TEDTalk Insights:](https://github.com/Richieone13/data_science_portfolio/blob/master/TedTalk/TedTalk_EDA.ipynb) 
+### [Exploring the TEDTalk Dataset:](https://github.com/Richieone13/data_science_portfolio/blob/master/TedTalk/TedTalk_EDA.ipynb) 
 * Exploratory Data Analysis and creating visualisation on the TedTalk Dataset from established to 2017.
 * Using the panda library to answer questions about a real-world datasets - "best practices" for using pandas
 * Answering interesting questions like:
