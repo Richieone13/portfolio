@@ -10,7 +10,7 @@ _Tools: Pandas, numpy, Matplotlib, seaborn, Scikit Learn_
 ## Projects:
 
 ### [Predicting House Prices:](https://github.com/Richieone13/data_science_portfolio/blob/master/California_Housing_Dataset/California_Housing.ipynb) 
-* Exploratory Data Analysis of the Califorina Housing Market
+* Exploratory Data Analysis and creating visualisation of the Califorina Housing Market
 * Comparison of performance in different ML models, incl. Linear Regression Model, SVR, DecisionTree, RandomForest
 * Undertaking: Data Cleaning, One-Hot Encoding, CrossValidation, GridSearch, RandomizeGridSearch
 
@@ -19,18 +19,16 @@ _Tools: Pandas, numpy, Matplotlib, seaborn, Scikit Learn_
 ---
 
 ### [Loan Prediction:](https://github.com/Richieone13/data_science_portfolio/blob/master/LoanPrediction/LoanPrediction-EndtoEnd.ipynb)
-* Exploratory Data Analysis for the Loan Predictions
+* Exploratory Data Analysis and creating visualisation for the Loan Predictions
 * Classification problem to predict whether the applicant will be eligible for a loan
 * 80% accuracy to predict whether the applicant is eligable for a loan
 
 <img src="LoanPrediction/Images/tierra-mallorca-rgJ1J8SDEAY-unsplash.png" width="500" height="375">
 
-<img src="LoanPrediction/Images/Bivariant_HeatMap.png" width="500" height="500">
-
 ---
 
 ### [Spotify User Playlist:](https://github.com/Richieone13/data_science_portfolio/blob/master/Spotify_Classifier/Spotify_EDA_DecisionTree.ipynb) 
-* Exploratory Data Analysis for songs in Spotify
+* Exploratory Data Analysis and creating visualisation for songs in Spotify
 * Classification problem to predict whether the likes or dislikes a song
 * 72% accuracy to predict whether the person likes or dislikes a song using Decision Tree
 
@@ -38,7 +36,7 @@ _Tools: Pandas, numpy, Matplotlib, seaborn, Scikit Learn_
 
 ---
 ### [TEDTalk Insights:](https://github.com/Richieone13/data_science_portfolio/blob/master/TedTalk/TedTalk_EDA.ipynb) 
-* Exploratory Data Analysis on the Dataset
+* Exploratory Data Analysis and creating visualisation on the Dataset
 * Uses pandas to answer questions about a real-world datasets - "best practices" for using pandas
 * Answering interesting questions like:
   - What were the "best" events in TED history to attend?
