@@ -13,7 +13,7 @@ _Tools: Pandas, numpy, Matplotlib, seaborn, Scikit Learn_
 * Exploratory Data Analysis and creating visualisation of the Califorina Housing Market
 * Comparison of performance in different ML models, incl. Linear Regression Model, SVR, DecisionTree and RandomForest
 * Undertaking: Data Cleaning, One-Hot Encoding, CrossValidation, GridSearch, RandomizeGridSearch
-* *Size of Dataset: 20640 entries with set of 10 features*
+* *Size of Dataset: 20,640 entries with set of 10 features*
 
 <img src="California_Housing_Dataset/images/california_housing_prices_plot.png" width="500">
 
@@ -33,7 +33,7 @@ _Tools: Pandas, numpy, Matplotlib, seaborn, Scikit Learn_
 * Classification problem to predict whether the likes or dislikes a song
 * Exploratory Data Analysis and creating visualisation for songs in Spotify
 * 72% accuracy to predict whether the person likes or dislikes a song using Decision Tree Model
-* *Size of Dataset: 2017 entries with set of 17 features*
+* *Size of Dataset: 2,017 entries with set of 17 features*
 
 <img src="Spotify_Classifier/Spotify_DecisionTree.png" width="500" height="500">
 
@@ -45,7 +45,7 @@ _Tools: Pandas, numpy, Matplotlib, seaborn, Scikit Learn_
   - What were the "best" events in TED history to attend?
   - Which TedTalk provoke the most online discussion?
   - Which occupations deliver the funniest TED talks on average?
-* *Size of Dataset: 2550 entries with set of 17 features*
+* *Size of Dataset: 2,550 entries with set of 17 features*
 
 <img src="TedTalk/ted-logo-fb.png" width="476" height="250">
 
