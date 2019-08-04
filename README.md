@@ -18,8 +18,8 @@ _Tools: Pandas, numpy, Matplotlib, seaborn, Scikit Learn_
 
 ---
 
-### [Loan Prediction:](https://github.com/Richieone13/data_science_portfolio/blob/master/LoanPrediction/LoanPrediction-EndtoEnd.ipynb)
-* Exploratory Data Analysis and creating visualisation for the Loan Predictions
+### [Predicting if a Loan Application is Successful:](https://github.com/Richieone13/data_science_portfolio/blob/master/LoanPrediction/LoanPrediction-EndtoEnd.ipynb)
+* Exploratory Data Analysis and creating visualisation of Loan Predictions
 * Classification problem to predict whether the applicant will be eligible for a loan
 * 80% accuracy to predict whether the applicant is eligable for a loan using Logisitic Regression Cross Validation
 
@@ -27,7 +27,7 @@ _Tools: Pandas, numpy, Matplotlib, seaborn, Scikit Learn_
 
 ---
 
-### [Spotify User Playlist:](https://github.com/Richieone13/data_science_portfolio/blob/master/Spotify_Classifier/Spotify_EDA_DecisionTree.ipynb) 
+### [Prediciting if the user likes the songs:](https://github.com/Richieone13/data_science_portfolio/blob/master/Spotify_Classifier/Spotify_EDA_DecisionTree.ipynb) 
 * Exploratory Data Analysis and creating visualisation for songs in Spotify
 * Classification problem to predict whether the likes or dislikes a song
 * 72% accuracy to predict whether the person likes or dislikes a song using Decision Tree
@@ -36,7 +36,7 @@ _Tools: Pandas, numpy, Matplotlib, seaborn, Scikit Learn_
 
 ---
 ### [TEDTalk Insights:](https://github.com/Richieone13/data_science_portfolio/blob/master/TedTalk/TedTalk_EDA.ipynb) 
-* Exploratory Data Analysis and creating visualisation on the Dataset
+* Exploratory Data Analysis and creating visualisation on the TedTalk Dataset froms established to 2017.
 * Uses pandas to answer questions about a real-world datasets - "best practices" for using pandas
 * Answering interesting questions like:
   - What were the "best" events in TED history to attend?
