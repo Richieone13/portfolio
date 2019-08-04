@@ -21,7 +21,7 @@ _Tools: Pandas, numpy, Matplotlib, seaborn, Scikit Learn_
 ### [Predicting if a Loan Application is Successful:](https://github.com/Richieone13/data_science_portfolio/blob/master/LoanPrediction/LoanPrediction-EndtoEnd.ipynb)
 * Classification problem to predict whether the applicant will be eligible for a loan
 * Exploratory Data Analysis and creating visualisation of the dataset
-* 80% accuracy to predict whether the applicant is eligable for a loan using Logisitic Regression Cross Validation
+* 80% accuracy to predict whether the applicant is eligable for a loan using Logisitic Regression-CrossValidation
 
 <img src="LoanPrediction/Images/tierra-mallorca-rgJ1J8SDEAY-unsplash.png" width="500" height="375">
 
