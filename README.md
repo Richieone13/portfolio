@@ -10,7 +10,7 @@ _Tools: Pandas, numpy, Matplotlib, seaborn, Scikit Learn_
 ## Projects:
 
 ### [Predicting House Prices:](https://github.com/Richieone13/data_science_portfolio/blob/master/California_Housing_Dataset/California_Housing.ipynb) 
-* End to end machine learning project - Predicting Califorina Housing Market
+* Exploratory Data Analysis of the Califorina Housing Market
 * Comparison of performance in different ML models, incl. Linear Regression Model, SVR, DecisionTree, RandomForest
 * Undertaking: Data Cleaning, One-Hot Encoding, CrossValidation, GridSearch, RandomizeGridSearch
 
@@ -18,8 +18,20 @@ _Tools: Pandas, numpy, Matplotlib, seaborn, Scikit Learn_
 
 ---
 
+### [Loan Prediction:](https://github.com/Richieone13/data_science_portfolio/blob/master/LoanPrediction/LoanPrediction-EndtoEnd.ipynb)
+* Exploratory Data Analysis for the Loan Predictions
+* Classification problem to predict whether the applicant will be eligible for a loan
+* 80% accuracy to predict whether the applicant is eligable for a loan
+
+<img src="LoanPrediction/Images/tierra-mallorca-rgJ1J8SDEAY-unsplash.png" width="500" height="375">
+
+<img src="LoanPrediction/Images/Bivariant_HeatMap.png" width="500" height="500">
+
+---
+
 ### [Spotify User Playlist:](https://github.com/Richieone13/data_science_portfolio/blob/master/Spotify_Classifier/Spotify_EDA_DecisionTree.ipynb) 
 * Exploratory Data Analysis for songs in Spotify
+* Classification problem to predict whether the likes or dislikes a song
 * 72% accuracy to predict whether the person likes or dislikes a song using Decision Tree
 
 <img src="Spotify_Classifier/Spotify_DecisionTree.png" width="500" height="500">
@@ -34,15 +46,6 @@ _Tools: Pandas, numpy, Matplotlib, seaborn, Scikit Learn_
   - Which occupations deliver the funniest TED talks on average?
 
 <img src="TedTalk/ted-logo-fb.png" width="476" height="250">
-
----
-
-### [Loan Prediction - (WIP):](https://github.com/Richieone13/data_science_portfolio/blob/master/LoanPrediction/Loan%20Prediction%20for%20Mortgage.ipynb)
-
-* To be able to predict whether the applicant will be eligible for a loan
-
-
-<img src="LoanPrediction/Images/tierra-mallorca-rgJ1J8SDEAY-unsplash.png" width="500" height="375">
 
 ---
 
