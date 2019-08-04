@@ -21,7 +21,7 @@ _Tools: Pandas, numpy, Matplotlib, seaborn, Scikit Learn_
 ### [Loan Prediction:](https://github.com/Richieone13/data_science_portfolio/blob/master/LoanPrediction/LoanPrediction-EndtoEnd.ipynb)
 * Exploratory Data Analysis and creating visualisation for the Loan Predictions
 * Classification problem to predict whether the applicant will be eligible for a loan
-* 80% accuracy to predict whether the applicant is eligable for a loan
+* 80% accuracy to predict whether the applicant is eligable for a loan using Logisitic Regression Cross Validation
 
 <img src="LoanPrediction/Images/tierra-mallorca-rgJ1J8SDEAY-unsplash.png" width="500" height="375">
 
