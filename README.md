@@ -11,7 +11,7 @@ _Tools: Pandas, numpy, Matplotlib, seaborn, Scikit Learn_
 
 ### [Predicting House Prices:](https://github.com/Richieone13/data_science_portfolio/blob/master/California_Housing_Dataset/California_Housing.ipynb) 
 * Exploratory Data Analysis and creating visualisation of the Califorina Housing Market
-* Comparison of performance in different ML models, incl. Linear Regression Model, SVR, DecisionTree, RandomForest
+* Comparison of performance in different ML models, incl. Linear Regression Model, SVR, DecisionTree and RandomForest
 * Undertaking: Data Cleaning, One-Hot Encoding, CrossValidation, GridSearch, RandomizeGridSearch
 
 <img src="California_Housing_Dataset/images/california_housing_prices_plot.png" width="500">
@@ -19,25 +19,25 @@ _Tools: Pandas, numpy, Matplotlib, seaborn, Scikit Learn_
 ---
 
 ### [Predicting if a Loan Application is Successful:](https://github.com/Richieone13/data_science_portfolio/blob/master/LoanPrediction/LoanPrediction-EndtoEnd.ipynb)
-* Exploratory Data Analysis and creating visualisation of Loan Predictions
 * Classification problem to predict whether the applicant will be eligible for a loan
+* Exploratory Data Analysis and creating visualisation of the dataset
 * 80% accuracy to predict whether the applicant is eligable for a loan using Logisitic Regression Cross Validation
 
 <img src="LoanPrediction/Images/tierra-mallorca-rgJ1J8SDEAY-unsplash.png" width="500" height="375">
 
 ---
 
-### [Prediciting if the user likes the songs:](https://github.com/Richieone13/data_science_portfolio/blob/master/Spotify_Classifier/Spotify_EDA_DecisionTree.ipynb) 
-* Exploratory Data Analysis and creating visualisation for songs in Spotify
+### [Prediciting if the user likes these songs:](https://github.com/Richieone13/data_science_portfolio/blob/master/Spotify_Classifier/Spotify_EDA_DecisionTree.ipynb) 
 * Classification problem to predict whether the likes or dislikes a song
-* 72% accuracy to predict whether the person likes or dislikes a song using Decision Tree
+* Exploratory Data Analysis and creating visualisation for songs in Spotify
+* 72% accuracy to predict whether the person likes or dislikes a song using Decision Tree Model
 
 <img src="Spotify_Classifier/Spotify_DecisionTree.png" width="500" height="500">
 
 ---
 ### [TEDTalk Insights:](https://github.com/Richieone13/data_science_portfolio/blob/master/TedTalk/TedTalk_EDA.ipynb) 
-* Exploratory Data Analysis and creating visualisation on the TedTalk Dataset froms established to 2017.
-* Uses pandas to answer questions about a real-world datasets - "best practices" for using pandas
+* Exploratory Data Analysis and creating visualisation on the TedTalk Dataset from established to 2017.
+* Using the panda library to answer questions about a real-world datasets - "best practices" for using pandas
 * Answering interesting questions like:
   - What were the "best" events in TED history to attend?
   - Which TedTalk provoke the most online discussion?
