@@ -5,6 +5,8 @@ If you liked what you saw, want to have a chat with me about the portfolio, work
 
 Personal Website: http://richiewong.co.uk/
 
+Dashboard of Current Projects: https://trello.com/b/GY705U41
+
 _Tools: Pandas, numpy, Matplotlib, seaborn, Scikit Learn_
 
 ## Projects:
@@ -55,4 +57,4 @@ _Tools: Pandas, numpy, Matplotlib, seaborn, Scikit Learn_
 
 * [Credit Card Fraud Detection:](https://www.kaggle.com/mlg-ulb/creditcardfraud)
 * Churn Model to Retain Exisiting Customers: A subscription model or sign up model
-* Stock Market Prediction: Applications of visualisation with graphs using financial dataset. Intend to directly load from Yahoo.
+* Stock Market Prediction: Applications of visualisation with graphs using financial dataset. Intend to directly load from Yahoo/Google
