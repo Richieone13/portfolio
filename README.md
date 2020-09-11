@@ -22,7 +22,7 @@ Opportunity to work on complete ready dataset (~49,000 listings) and finding int
 
 <img align="left" width="250" height="150" img src="Images_Kaggle/CollegeBasketball.jpg"> **[Exploratory Data Analysis 🏀 College Basketball](https://www.kaggle.com/richieone13/exploratory-data-analysis-eda)**
 
-Exploratory Data Analysis in USA College Basketball (2015-2019) dataset. From a young age my passion is playing and watching basketball and I am keen to explore this dataset on College Basketball in the USA. The motivation is to learn the history/trends of college basketball and what is the formula for success within a team.
+Exploratory Data Analysis in USA College Basketball (2015-2019) dataset. From a young age my passion is playing and watching basketball. The motivation is to learn the history/trends of college basketball and what is the formula for success within a team.
 
 <br />
 
