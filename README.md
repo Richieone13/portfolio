@@ -27,7 +27,7 @@ _Tools: Pandas, numpy, Matplotlib, seaborn, Scikit Learn_
 * 80% accuracy to predict whether the applicant is eligable for a loan using Logisitic Regression-CrossValidation
 * *Size of Dataset: 614 entries with set of 13 features*
 
-<img src="LoanPrediction/Images/tierra-mallorca-rgJ1J8SDEAY-unsplash.png" width="400" height="375">
+<img src="LoanPrediction/Images/tierra-mallorca-rgJ1J8SDEAY-unsplash.png" width="400" height="300">
 
 ---
 
