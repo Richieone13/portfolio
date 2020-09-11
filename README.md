@@ -15,23 +15,22 @@ _Tools: Pandas, numpy, Matplotlib, seaborn, Scikit Learn, TensorFlow, GeoPandas,
 
 <img align="left" width="250" height="150" img src="Images_Kaggle/NewYorkSkyline.jpg"> **[Airbnb New York EDA and Predictive Modelling](https://www.kaggle.com/richieone13/airbnb-new-york-eda-and-predictive-modelling)**
 
-Opportunity to work on complete ready dataset (~49,000 listings) and finding interesting trends - incl. finding the market value of the rent for appartment + shared room. Exploring different libaries: GeoPandas, Bokeh, Folium
+Opportunity to work on complete ready dataset (~49,000 listings) and finding interesting trends - incl. finding the market value of the rent for appartment + shared room between the different boroughs within New York. Exploring different libaries: GeoPandas, Bokeh, Folium
 
-<br />
-<br />
-
-<img align="left" width="250" height="150" img src="Images_Kaggle/Golden_Globle.png"> **[EDA + Feature Engineering - Golden Globe Awards](https://www.kaggle.com/richieone13/eda-feature-engineering-golden-globe-awards)**
-
-Being a fan of movies myself, I wanted to learn more, Exploring the data, focusing on feature engineering and interesting insights from the dataset
-
-<br />
 <br />
 <br />
 
 <img align="left" width="250" height="150" img src="Images_Kaggle/CollegeBasketball.jpg"> **[Exploratory Data Analysis 🏀 College Basketball](https://www.kaggle.com/richieone13/exploratory-data-analysis-eda)**
 
-Exploratory Data Analysis on USA College Basketball (2015-2019) dataset. My passion is playing and watching basketball from a young age and I am keen to explore this dataset on College Basketball in the USA. The end-goal is to learn the history/trends of college basketball and what is the formula for success in a team
+Exploratory Data Analysis in USA College Basketball (2015-2019) dataset. From a young age my passion is playing and watching basketball and I am keen to explore this dataset on College Basketball in the USA. The motivation is to learn the history/trends of college basketball and what is the formula for success within a team.
 
+<br />
+
+<img align="left" width="250" height="150" img src="Images_Kaggle/Golden_Globle.png"> **[EDA + Feature Engineering - Golden Globe Awards](https://www.kaggle.com/richieone13/eda-feature-engineering-golden-globe-awards)**
+
+Being a fan of movies myself, I wanted to learn more about the Golden Globe awards and trends. Here I focus on feature engineering to be able to gather more meaningful insight of the different types of awards and succesful movies, directors and actors/actresses
+
+<br />
 <br />
 
 # Classification problems
