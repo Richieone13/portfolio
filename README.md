@@ -9,7 +9,7 @@ _Tools: Pandas, numpy, Matplotlib, seaborn, Scikit Learn, TensorFlow, GeoPandas,
 
 ---
 
-# Kaggle kernels
+# Kaggle Kernels
 
 ### [Airbnb New York EDA and Predictive Modelling](https://www.kaggle.com/richieone13/airbnb-new-york-eda-and-predictive-modelling)
 
