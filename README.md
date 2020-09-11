@@ -5,9 +5,7 @@ If you liked what you saw, want to have a chat with me about the portfolio, work
 
 Personal Website: http://richiewong.co.uk/
 
-Dashboard of Current Projects: https://trello.com/b/GY705U41
-
-_Tools: Pandas, numpy, Matplotlib, seaborn, Scikit Learn_
+_Tools: Pandas, numpy, Matplotlib, seaborn, Scikit Learn, TensorFlow, GeoPandas, Bokeh, Folium_
 
 ---
 
