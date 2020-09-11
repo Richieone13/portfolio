@@ -9,7 +9,39 @@ Dashboard of Current Projects: https://trello.com/b/GY705U41
 
 _Tools: Pandas, numpy, Matplotlib, seaborn, Scikit Learn_
 
-## Projects:
+---
+
+# Kaggle kernels
+
+### [Airbnb New York EDA and Predictive Modelling](https://www.kaggle.com/richieone13/airbnb-new-york-eda-and-predictive-modelling)
+
+Motivation for EDA
+* Opportunity to work on complete ready dataset (~49,000 listings)
+* Find interesting trends - incl. finding the market value of the rent for appartment + shared room.
+* Undertake a problem as a travellers prespective
+* Opportunity to work using different libaries: GeoPandas, Bokeh, Folium
+
+---
+
+### [EDA + Feature Engineering - Golden Globe Awards](https://www.kaggle.com/richieone13/eda-feature-engineering-golden-globe-awards)
+
+Exploratory Data Analysis Golden Globe Awards, 1944 - 2020 dataset
+
+Motivation for EDA
+* Being a fan of movies myself, I wanted to learn more
+* Exploring the data, focusing on feature engineering and interesting insights from the dataset
+
+---
+
+### [Exploratory Data Analysis 🏀 College Basketball](https://www.kaggle.com/richieone13/exploratory-data-analysis-eda)
+
+Exploratory Data Analysis on USA College Basketball (2015-2019) dataset.
+
+Motivation for EDA
+* My passion is playing and watching basketball from a young age and I am keen to explore this dataset on College Basketball in the USA.
+* The end-goal is to learn the history/trends of college basketball and what is the formula for success in a team.
+
+# Classification problems
 
 ### [Predicting House Prices:](https://github.com/Richieone13/data_science_portfolio/blob/master/California_Housing_Dataset/California_Housing.ipynb) 
 * Exploratory Data Analysis and creating visualisation of the Califorina Housing Market
@@ -37,9 +69,10 @@ _Tools: Pandas, numpy, Matplotlib, seaborn, Scikit Learn_
 * 72% accuracy to predict whether the person likes or dislikes a song using Decision Tree Model
 * *Size of Dataset: 2,017 entries with set of 17 features*
 
-<img src="Spotify_Classifier/Spotify_DecisionTree.png" width="400" height="400">
-
 ---
+
+# Data Exploration and Analysis
+
 ### [Exploring the TEDTalk Dataset:](https://github.com/Richieone13/data_science_portfolio/blob/master/TedTalk/TedTalk_EDA.ipynb) 
 * Exploratory Data Analysis and creating visualisation on the TedTalk Dataset from established to 2017.
 * Using the panda library to answer questions about a real-world datasets - "best practices" for using pandas
@@ -49,11 +82,11 @@ _Tools: Pandas, numpy, Matplotlib, seaborn, Scikit Learn_
   - Which occupations deliver the funniest TED talks on average?
 * *Size of Dataset: 2,550 entries with set of 17 features*
 
-<img src="TedTalk/ted-logo-fb.png" width="400" height="250">
+<img src="TedTalk/ted-logo-fb.png" width="300" height="200">
 
 ---
 
-### Upcoming Projects
+# Upcoming Projects
 
 * [Credit Card Fraud Detection:](https://www.kaggle.com/mlg-ulb/creditcardfraud)
 * Churn Model to Retain Exisiting Customers: A subscription model or sign up model
