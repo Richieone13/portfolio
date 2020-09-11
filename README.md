@@ -17,7 +17,7 @@ _Tools: Pandas, numpy, Matplotlib, seaborn, Scikit Learn_
 * Undertaking: Data Cleaning, One-Hot Encoding, CrossValidation, GridSearch, RandomizeGridSearch
 * *Size of Dataset: 20,640 entries with set of 10 features*
 
-<img src="California_Housing_Dataset/images/california_housing_prices_plot.png" width="500">
+<img src="California_Housing_Dataset/images/california_housing_prices_plot.png" width="400">
 
 ---
 
@@ -27,7 +27,7 @@ _Tools: Pandas, numpy, Matplotlib, seaborn, Scikit Learn_
 * 80% accuracy to predict whether the applicant is eligable for a loan using Logisitic Regression-CrossValidation
 * *Size of Dataset: 614 entries with set of 13 features*
 
-<img src="LoanPrediction/Images/tierra-mallorca-rgJ1J8SDEAY-unsplash.png" width="500" height="375">
+<img src="LoanPrediction/Images/tierra-mallorca-rgJ1J8SDEAY-unsplash.png" width="400" height="375">
 
 ---
 
@@ -37,7 +37,7 @@ _Tools: Pandas, numpy, Matplotlib, seaborn, Scikit Learn_
 * 72% accuracy to predict whether the person likes or dislikes a song using Decision Tree Model
 * *Size of Dataset: 2,017 entries with set of 17 features*
 
-<img src="Spotify_Classifier/Spotify_DecisionTree.png" width="500" height="500">
+<img src="Spotify_Classifier/Spotify_DecisionTree.png" width="400" height="400">
 
 ---
 ### [Exploring the TEDTalk Dataset:](https://github.com/Richieone13/data_science_portfolio/blob/master/TedTalk/TedTalk_EDA.ipynb) 
@@ -49,7 +49,7 @@ _Tools: Pandas, numpy, Matplotlib, seaborn, Scikit Learn_
   - Which occupations deliver the funniest TED talks on average?
 * *Size of Dataset: 2,550 entries with set of 17 features*
 
-<img src="TedTalk/ted-logo-fb.png" width="476" height="250">
+<img src="TedTalk/ted-logo-fb.png" width="400" height="250">
 
 ---
 
