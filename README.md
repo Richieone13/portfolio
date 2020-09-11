@@ -25,12 +25,12 @@ Opportunity to work on complete ready dataset (~49,000 listings) and finding int
 Exploratory Data Analysis in USA College Basketball (2015-2019) dataset. From a young age my passion is playing and watching basketball. The motivation is to learn the history/trends of college basketball and what is the formula for success within a team.
 
 <br />
+<br />
 
 <img align="left" width="250" height="150" img src="Images_Kaggle/Golden_Globle.png"> **[EDA + Feature Engineering - Golden Globe Awards](https://www.kaggle.com/richieone13/eda-feature-engineering-golden-globe-awards)**
 
 Being a fan of movies myself, I wanted to learn more about the Golden Globe awards and trends. Here I focus on feature engineering to be able to gather more meaningful insight of the different types of awards and succesful movies, directors and actors/actresses
 
-<br />
 <br />
 
 # Classification problems
