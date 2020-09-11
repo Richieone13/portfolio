@@ -29,7 +29,7 @@ Exploratory Data Analysis in USA College Basketball (2015-2019) dataset. From a 
 
 <img align="left" width="250" height="150" img src="Images_Kaggle/Golden_Globle.png"> **[EDA + Feature Engineering - Golden Globe Awards](https://www.kaggle.com/richieone13/eda-feature-engineering-golden-globe-awards)**
 
-Being a fan of movies myself, I wanted to learn more about the Golden Globe awards and trends. Here I focus on feature engineering to be able to gather more meaningful insight of the different types of awards and succesful movies, directors and actors/actresses
+Being a fan of movies myself, I wanted to learn more about the Golden Globe awards and trends. Here I focus on feature engineering to be able to gather more meaningful insight of the different types of awards and succesful movies, directors and actors/actresses.
 
 <br />
 
