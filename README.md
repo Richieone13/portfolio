@@ -5,7 +5,7 @@ If you liked what you saw, want to have a chat with me about the portfolio, work
 
 Personal Website: http://richiewong.co.uk/
 
-_Tools: Pandas, numpy, Matplotlib, seaborn, Scikit Learn, TensorFlow, GeoPandas, Bokeh, Folium_
+_Python Libaries: Pandas, numpy, Matplotlib, seaborn, Scikit Learn, TensorFlow, GeoPandas, Bokeh, Folium_
 
 ---
 
@@ -59,7 +59,7 @@ Being a fan of movies myself, I wanted to learn more about the Golden Globe awar
 
 ---
 
-# Data Exploration and Analysis
+# Reporting and Data Discovery
 
 ### [Exploring the TEDTalk Dataset:](https://github.com/Richieone13/data_science_portfolio/blob/master/TedTalk/TedTalk_EDA.ipynb) 
 * Exploratory Data Analysis and creating visualisation on the TedTalk Dataset from established to 2017.
@@ -71,3 +71,9 @@ Being a fan of movies myself, I wanted to learn more about the Golden Globe awar
 * *Size of Dataset: 2,550 entries with set of 17 features*
 
 <img src="TedTalk/ted-logo-fb.png" width="300" height="200">
+
+### [London Airbnb Dataset:](https://app.powerbi.com/view?r=eyJrIjoiNDJmNjM0ODAtZGExOC00OTk2LWFhNGItMjA1YjMyNzg4ZjJiIiwidCI6IjA3OGU4ZTc5LTE3YTctNGJkOS05MmMyLWRkZDQ1YWU4NmJkZCJ9&pageName=ReportSection)
+* Reporting on current listings avaiable in London as of August 2020.
+* Use of visualisation software Power BI to aggregate and report on data
+
+<img src="ImagesPowerBI/LondonAirbnbSnapshot.JPG" width="600" height="338.39">
