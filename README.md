@@ -10,7 +10,7 @@ _Python Libaries: Pandas, numpy, Matplotlib, seaborn, Scikit Learn, TensorFlow, 
 ---
 # Reporting and Data Discovery
 
-### [London Airbnb Dataset:](https://app.powerbi.com/view?r=eyJrIjoiNDJmNjM0ODAtZGExOC00OTk2LWFhNGItMjA1YjMyNzg4ZjJiIiwidCI6IjA3OGU4ZTc5LTE3YTctNGJkOS05MmMyLWRkZDQ1YWU4NmJkZCJ9&pageName=ReportSectiona1d10cfd8e4aa0cde1ec
+### [London Airbnb Dataset:](https://app.powerbi.com/view?r=eyJrIjoiNDJmNjM0ODAtZGExOC00OTk2LWFhNGItMjA1YjMyNzg4ZjJiIiwidCI6IjA3OGU4ZTc5LTE3YTctNGJkOS05MmMyLWRkZDQ1YWU4NmJkZCJ9&pageName=ReportSectiona1d10cfd8e4aa0cde1ec)
 * Reporting on current listings avaiable in London as of August 2020.
 * Use of visualisation software Power BI to aggregate and report on data
 
