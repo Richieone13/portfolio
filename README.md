@@ -11,7 +11,7 @@ _Python Libaries: Pandas, numpy, Matplotlib, seaborn, Scikit Learn, TensorFlow, 
 
 # Classification problems
 
-### [Predicting House Prices:](https://github.com/Richieone13/data_science_portfolio/blob/master/California_Housing_Dataset/California_Housing.ipynb) 
+### [House Price Prediction:](https://github.com/Richieone13/house-price-prediction) 
 * Exploratory Data Analysis and creating visualisation of the Califorina Housing Market
 * Comparison of performance in different ML models, incl. Linear Regression Model, SVR, DecisionTree and RandomForest
 * Undertaking: Data Cleaning, One-Hot Encoding, CrossValidation, GridSearch, RandomizeGridSearch
@@ -19,7 +19,7 @@ _Python Libaries: Pandas, numpy, Matplotlib, seaborn, Scikit Learn, TensorFlow, 
 
 <img src="California_Housing_Dataset/images/california_housing_prices_plot.png" width="400">
 
-### [Predicting if a Loan Application is Successful:](https://github.com/Richieone13/data_science_portfolio/blob/master/LoanPrediction/LoanPrediction-EndtoEnd.ipynb)
+### [Predicting if a Loan Application is Successful:](https://github.com/Richieone13/loan-prediction)
 * Classification problem to predict whether the applicant will be eligible for a loan
 * Exploratory Data Analysis and creating visualisation of the dataset
 * 80% accuracy to predict whether the applicant is eligable for a loan using Logisitic Regression-CrossValidation
@@ -27,7 +27,7 @@ _Python Libaries: Pandas, numpy, Matplotlib, seaborn, Scikit Learn, TensorFlow, 
 
 <img src="LoanPrediction/Images/tierra-mallorca-rgJ1J8SDEAY-unsplash.png" width="400" height="300">
 
-### [Prediciting if the user likes these songs:](https://github.com/Richieone13/data_science_portfolio/blob/master/Spotify_Classifier/Spotify_EDA_DecisionTree.ipynb) 
+### [Prediciting if the user likes these songs:](https://github.com/Richieone13/spotify-classifier) 
 * Classification problem to predict whether the likes or dislikes a song
 * Exploratory Data Analysis and creating visualisation for songs in Spotify
 * 72% accuracy to predict whether the person likes or dislikes a song using Decision Tree Model
@@ -66,7 +66,7 @@ Being a fan of movies myself, I wanted to learn more about the Golden Globe awar
 
 <img src="ImagesPowerBI/LondonAirbnbSnapshot.JPG" width="600" height="338.39">
 
-### [Exploring the TEDTalk Dataset:](https://github.com/Richieone13/data_science_portfolio/blob/master/TedTalk/TedTalk_EDA.ipynb) 
+### [Exploring the TEDTalk Dataset:](https://github.com/Richieone13/ted-talk-discovery) 
 * Exploratory Data Analysis and creating visualisation on the TedTalk Dataset from established to 2017.
 * Using the panda library to answer questions about a real-world datasets - "best practices" for using pandas
 * Answering interesting questions like:
