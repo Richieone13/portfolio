@@ -17,10 +17,7 @@ _Python Libaries: Pandas, numpy, Matplotlib, seaborn, Scikit Learn, TensorFlow, 
 
 **[Predicting Customer Churn based on profile](https://www.kaggle.com/richieone13/2-churn-notebook-prediction)**
 
-Want to gain experience predicting customer churn and experimenting to find the best model i.e. Logisitic Regression, SVM, Random Forest and XGBoost. First I undertook EDA in to understand the relationships and dependence of the different variables.
-
-<br />
-<br />
+Predicting customer churn and experimenting to find the best model using Logisitic Regression, SVM, Random Forest and XGBoost. Analysis and discussion to find the best model and tuning. 
 
 <img align="left" width="250" height="150" img src="images/new-york-skyline.jpg"> **[Airbnb New York EDA and Predictive Modelling](https://www.kaggle.com/richieone13/airbnb-new-york-eda-and-predictive-modelling)**
 
