@@ -17,7 +17,7 @@ _Python Libaries: Pandas, numpy, Matplotlib, seaborn, Scikit Learn, TensorFlow, 
 
 **[Predicting Customer Churn based on profile](https://www.kaggle.com/richieone13/2-churn-notebook-prediction)**
 
-Predicting customer churn and experimenting to find the best model using Logisitic Regression, SVM, Random Forest and XGBoost. Analysis and discussion to find the best model and tuning. 
+Predicting customer churn and experimenting to find the best model using Logisitic Regression, SVM, Random Forest and XGBoost. Analysis and discussion to find the best model and parameter tuning. 
 
 <br />
 
