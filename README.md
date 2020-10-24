@@ -9,6 +9,39 @@ _Python Libaries: Pandas, numpy, Matplotlib, seaborn, Scikit Learn, TensorFlow, 
 
 ---
 
+# Kaggle Kernels
+
+<br />
+
+<img align="left" width="250" height="150" img src="images/customer-churn.jpeg"> **[Exploratory Data Analysis Customers Profile](https://www.kaggle.com/richieone13/1-churn-notebook-eda)**
+
+**[Predicting Customer Churn based on profile](https://www.kaggle.com/richieone13/2-churn-notebook-prediction)**
+
+Want to gain experience predicting customer churn and experimenting to find the best model i.e. Logisitic Regression, SVM, Random Forest and XGBoost. First I undertook EDA in to understand the relationships and dependence of the different variables.
+
+<br />
+<br />
+
+<img align="left" width="250" height="150" img src="images/new-york-skyline.jpg"> **[Airbnb New York EDA and Predictive Modelling](https://www.kaggle.com/richieone13/airbnb-new-york-eda-and-predictive-modelling)**
+
+Opportunity to work on complete ready dataset (~49,000 listings) and finding interesting trends - incl. finding the market value of the rent for appartment + shared room between the different boroughs within New York. Exploring different libaries: GeoPandas, Bokeh, Folium
+
+<br />
+<br />
+
+<img align="left" width="250" height="150" img src="images/college-basketball.jpg"> **[Exploratory Data Analysis 🏀 College Basketball](https://www.kaggle.com/richieone13/exploratory-data-analysis-eda)**
+
+Exploratory Data Analysis in USA College Basketball (2015-2019) dataset. From a young age my passion is playing and watching basketball. The motivation is to learn the history of college basketball and what is the formula for success within a team.
+
+<br />
+<br />
+
+<img align="left" width="250" height="150" img src="images/golden-globe.png"> **[EDA + Feature Engineering - Golden Globe Awards](https://www.kaggle.com/richieone13/eda-feature-engineering-golden-globe-awards)**
+
+Being a fan of movies myself, I wanted to learn more about the Golden Globe awards and trends. Here I focus on feature engineering to be able to gather more meaningful insight of the different types of awards and succesful movies, directors and actors/actresses.
+
+---
+
 # Classification problems
 
 ### [House Price Prediction:](https://github.com/Richieone13/house-price-prediction) 
@@ -32,30 +65,6 @@ _Python Libaries: Pandas, numpy, Matplotlib, seaborn, Scikit Learn, TensorFlow, 
 * Exploratory Data Analysis and creating visualisation for songs in Spotify
 * 72% accuracy to predict whether the person likes or dislikes a song using Decision Tree Model
 * *Size of Dataset: 2,017 entries with set of 17 features*
-
----
-
-# Kaggle Kernels
-
-<br />
-
-<img align="left" width="250" height="150" img src="images/new-york-skyline.jpg"> **[Airbnb New York EDA and Predictive Modelling](https://www.kaggle.com/richieone13/airbnb-new-york-eda-and-predictive-modelling)**
-
-Opportunity to work on complete ready dataset (~49,000 listings) and finding interesting trends - incl. finding the market value of the rent for appartment + shared room between the different boroughs within New York. Exploring different libaries: GeoPandas, Bokeh, Folium
-
-<br />
-<br />
-
-<img align="left" width="250" height="150" img src="images/college-basketball.jpg"> **[Exploratory Data Analysis 🏀 College Basketball](https://www.kaggle.com/richieone13/exploratory-data-analysis-eda)**
-
-Exploratory Data Analysis in USA College Basketball (2015-2019) dataset. From a young age my passion is playing and watching basketball. The motivation is to learn the history of college basketball and what is the formula for success within a team.
-
-<br />
-<br />
-
-<img align="left" width="250" height="150" img src="images/golden-globe.png"> **[EDA + Feature Engineering - Golden Globe Awards](https://www.kaggle.com/richieone13/eda-feature-engineering-golden-globe-awards)**
-
-Being a fan of movies myself, I wanted to learn more about the Golden Globe awards and trends. Here I focus on feature engineering to be able to gather more meaningful insight of the different types of awards and succesful movies, directors and actors/actresses.
 
 ---
 # Reporting and Data Discovery
