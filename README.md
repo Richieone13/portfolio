@@ -19,6 +19,8 @@ _Python Libaries: Pandas, numpy, Matplotlib, seaborn, Scikit Learn, TensorFlow, 
 
 Predicting customer churn and experimenting to find the best model using Logisitic Regression, SVM, Random Forest and XGBoost. Analysis and discussion to find the best model and tuning. 
 
+<br />
+
 <img align="left" width="250" height="150" img src="images/new-york-skyline.jpg"> **[Airbnb New York EDA and Predictive Modelling](https://www.kaggle.com/richieone13/airbnb-new-york-eda-and-predictive-modelling)**
 
 Opportunity to work on complete ready dataset (~49,000 listings) and finding interesting trends - incl. finding the market value of the rent for appartment + shared room between the different boroughs within New York. Exploring different libaries: GeoPandas, Bokeh, Folium
