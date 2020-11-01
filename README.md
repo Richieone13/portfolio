@@ -19,6 +19,7 @@ _Python Libaries: Pandas, numpy, Matplotlib, seaborn, Scikit Learn, TensorFlow, 
 A/B testing on two different designs the control and experiemental landing pages. Note - this is a simple experiment which does not factor in the funnel and journey to conversion or track bounce rate etc.
 
 <br />
+<br />
 
 <img align="left" width="250" height="150" img src="images/customer-churn.jpeg"> **[Exploratory Data Analysis Customers Profile](https://www.kaggle.com/richieone13/1-churn-notebook-eda)**
 
