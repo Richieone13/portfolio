@@ -14,7 +14,7 @@ _Python Libaries: Pandas, numpy, Matplotlib, seaborn, Scikit Learn, TensorFlow, 
 
 <br />
 
-<img align="left" width="250" height="150" img src="images/ab-testing.jpg"> **[A/B Testing Webpage Design for Conversions](https://www.kaggle.com/richieone13/a-b-testing-example)**
+<img align="left" width="250" height="150" img src="images/ab-testing.png"> **[A/B Testing Webpage Design for Conversions](https://www.kaggle.com/richieone13/a-b-testing-example)**
 
 A/B testing on two different designs the control and experiemental landing pages. Note - this is a simple experiment which does not factor in the funnel and journey to conversion or track bounce rate etc.
 
