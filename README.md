@@ -5,7 +5,7 @@ If you liked what you saw, want to have a chat with me about the portfolio, work
 
 Personal Website: http://richiewong.co.uk/
 
-_Python Libaries: Pandas, numpy, Matplotlib, seaborn, Scikit Learn, TensorFlow, GeoPandas, Bokeh, Folium_
+_Python Libaries: Pandas, numpy, Matplotlib, Seaborn, Scikit Learn, Scipy, Stats, GeoPandas, Bokeh, Folium_
 
 ---
 ## Machine Learning Classification Problems
