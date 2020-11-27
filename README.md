@@ -26,11 +26,9 @@ Classification problem to predict whether the applicant will be eligible for a l
 <br />
 <br />
 
-**[Prediciting if the user likes these songs:](https://github.com/Richieone13/spotify-classifier)**
-* Classification problem to predict whether the likes or dislikes a song
-* Exploratory Data Analysis and creating visualisation for songs in Spotify
-* 72% accuracy to predict whether the person likes or dislikes a song using Decision Tree Model
-* *Size of Dataset: 2,017 entries with set of 17 features*
+<img align="left" width="250" height="150" src="images/spotify.png"> **[Prediciting if the user likes these songs:](https://github.com/Richieone13/spotify-classifier)**
+
+Classification problem to predict whether the likes or dislikes a song, exploratory Data Analysis, 72% accuracy to predict whether the person likes or dislikes a song using Decision Tree Model. Size of Dataset: 2,017 entries with set of 17 features.
 
 <br />
 
