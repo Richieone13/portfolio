@@ -34,21 +34,20 @@ Classification problem to predict whether the applicant will be eligible for a l
 
 <br />
 
+## Regression Problems
+
+<img align="left" width="250" height="150" src="images/california-housing-prices-plot.png"> **[House Price Prediction](https://github.com/Richieone13/house-price-prediction)**
+
+Exploratory Data Analysis of the Califorina Housing Market. Comparison of performance in different ML models, incl. Linear Regression Model, SVR, DecisionTree and RandomForest. Undertaking: Data Cleaning, One-Hot Encoding, CrossValidation, GridSearch, RandomizeGridSearch. 
+
+<br />
+
 ## Statistical Hypothesis Testing
 
 <img align="left" width="250" height="150" img src="images/ab-testing.png"> **[A/B Testing Webpage Design for Conversions](https://www.kaggle.com/richieone13/a-b-testing-example)**
 
 
 A/B testing on two different designs the control and experiemental landing pages. Note - this is a simple experiment which does not factor in the funnel and journey to conversion or track bounce rate etc.
-
-<br />
-
-
-## Regression Problems
-
-<img align="left" width="250" height="150" src="images/california-housing-prices-plot.png"> **[House Price Prediction](https://github.com/Richieone13/house-price-prediction)**
-
-Exploratory Data Analysis of the Califorina Housing Market. Comparison of performance in different ML models, incl. Linear Regression Model, SVR, DecisionTree and RandomForest. Undertaking: Data Cleaning, One-Hot Encoding, CrossValidation, GridSearch, RandomizeGridSearch. 
 
 <br />
 
@@ -80,7 +79,6 @@ Being a fan of movies myself, I wanted to learn more about the Golden Globe awar
 
 Exploratory Data Analysis on the TedTalk Dataset from established to 2017. Using the panda library to answer questions about a real-world datasets - "best practices" for using pandas. Answering interesting questions like: What were the "best" events in TED history to attend? Which TedTalk provoke the most online discussion? Which occupations deliver the funniest TED talks on average?
 
----
 <br />
 
 **[London Airbnb Power BI Report:](https://app.powerbi.com/view?r=eyJrIjoiNDJmNjM0ODAtZGExOC00OTk2LWFhNGItMjA1YjMyNzg4ZjJiIiwidCI6IjA3OGU4ZTc5LTE3YTctNGJkOS05MmMyLWRkZDQ1YWU4NmJkZCJ9&pageName=ReportSectiona1d10cfd8e4aa0cde1ec)**
