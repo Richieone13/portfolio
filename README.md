@@ -26,7 +26,7 @@ Classification problem to predict whether the applicant will be eligible for a l
 
 <br />
 
-### [Prediciting if the user likes these songs:](https://github.com/Richieone13/spotify-classifier) 
+**[Prediciting if the user likes these songs:](https://github.com/Richieone13/spotify-classifier)**
 * Classification problem to predict whether the likes or dislikes a song
 * Exploratory Data Analysis and creating visualisation for songs in Spotify
 * 72% accuracy to predict whether the person likes or dislikes a song using Decision Tree Model
@@ -49,13 +49,10 @@ A/B testing on two different designs the control and experiemental landing pages
 
 ## Regression Problems
 
-### [House Price Prediction:](https://github.com/Richieone13/house-price-prediction) 
-* Exploratory Data Analysis and creating visualisation of the Califorina Housing Market
-* Comparison of performance in different ML models, incl. Linear Regression Model, SVR, DecisionTree and RandomForest
-* Undertaking: Data Cleaning, One-Hot Encoding, CrossValidation, GridSearch, RandomizeGridSearch
-* *Size of Dataset: 20,640 entries with set of 10 features*
+<img align="left" width="250" height="150" src="images/california-housing-prices-plot.png"> **[House Price Prediction](https://github.com/Richieone13/house-price-prediction)**
 
-<img src="images/california-housing-prices-plot.png" width="400">
+Exploratory Data Analysis of the Califorina Housing Market. Comparison of performance in different ML models, incl. Linear Regression Model, SVR, DecisionTree and RandomForest. Undertaking: Data Cleaning, One-Hot Encoding, CrossValidation, GridSearch, RandomizeGridSearch. 
+
 <br />
 
 ---
@@ -68,11 +65,13 @@ A/B testing on two different designs the control and experiemental landing pages
 Opportunity to work on complete ready dataset (~49,000 listings) and finding interesting trends - incl. finding the market value of the rent for appartment + shared room between the different boroughs within New York. Exploring different libaries: GeoPandas, Bokeh, Folium
 
 <br />
+<br />
 
 <img align="left" width="250" height="150" img src="images/college-basketball.jpg"> **[Exploratory Data Analysis 🏀 College Basketball](https://www.kaggle.com/richieone13/exploratory-data-analysis-eda)**
 
 Exploratory Data Analysis in USA College Basketball (2015-2019) dataset. From a young age my passion is playing and watching basketball. The motivation is to learn the history of college basketball and what is the formula for success within a team.
 
+<br />
 <br />
 
 <img align="left" width="250" height="150" img src="images/golden-globe.png"> **[EDA + Feature Engineering - Golden Globe Awards](https://www.kaggle.com/richieone13/eda-feature-engineering-golden-globe-awards)**
@@ -80,22 +79,17 @@ Exploratory Data Analysis in USA College Basketball (2015-2019) dataset. From a 
 Being a fan of movies myself, I wanted to learn more about the Golden Globe awards and trends. Here I focus on feature engineering to be able to gather more meaningful insight of the different types of awards and succesful movies, directors and actors/actresses.
 
 <br />
+<br />
 
-### [Exploring the TEDTalk Dataset:](https://github.com/Richieone13/ted-talk-discovery) 
-* Exploratory Data Analysis and creating visualisation on the TedTalk Dataset from established to 2017.
-* Using the panda library to answer questions about a real-world datasets - "best practices" for using pandas
-* Answering interesting questions like:
-  - What were the "best" events in TED history to attend?
-  - Which TedTalk provoke the most online discussion?
-  - Which occupations deliver the funniest TED talks on average?
-* *Size of Dataset: 2,550 entries with set of 17 features*
+<img align="left" width="250" height="150" img src="images/ted-logo.png"> **[Exploring the TEDTalk Dataset](https://github.com/Richieone13/ted-talk-discovery)**
 
-<img src="images/ted-logo.png" width="300" height="200">
+Exploratory Data Analysis on the TedTalk Dataset from established to 2017. Using the panda library to answer questions about a real-world datasets - "best practices" for using pandas. Answering interesting questions like: What were the "best" events in TED history to attend? Which TedTalk provoke the most online discussion? Which occupations deliver the funniest TED talks on average?
 
 
 # Reporting Power BI
 ### [London Airbnb Power BI Report:](https://app.powerbi.com/view?r=eyJrIjoiNDJmNjM0ODAtZGExOC00OTk2LWFhNGItMjA1YjMyNzg4ZjJiIiwidCI6IjA3OGU4ZTc5LTE3YTctNGJkOS05MmMyLWRkZDQ1YWU4NmJkZCJ9&pageName=ReportSectiona1d10cfd8e4aa0cde1ec)
-* Reporting on current listings avaiable in London as of August 2020.
-* Use of visualisation software Power BI to aggregate and report on data
 
 <img src="images/london-airbnb-snapshot.JPG" width="600" height="338.39">
+
+* Reporting on current listings avaiable in London as of August 2020.
+* Use of visualisation software Power BI to aggregate and report on data
