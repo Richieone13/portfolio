@@ -8,7 +8,7 @@ Personal Website: http://richiewong.co.uk/
 _Python Libaries: Pandas, numpy, Matplotlib, seaborn, Scikit Learn, TensorFlow, GeoPandas, Bokeh, Folium_
 
 ---
-## Classification problems
+## Machine Learning Classification Problems
 
 
 <img align="left" width="250" height="150" img src="images/customer-churn.jpeg"> **[Exploratory Data Analysis Customers Profile](https://www.kaggle.com/richieone13/1-churn-notebook-eda)**
@@ -34,7 +34,7 @@ Classification problem to predict whether the applicant will be eligible for a l
 
 <br />
 
-## Regression Problems
+## Machine Learning Regression Problems
 
 <img align="left" width="250" height="150" src="images/california-housing-prices-plot.png"> **[House Price Prediction](https://github.com/Richieone13/house-price-prediction)**
 
