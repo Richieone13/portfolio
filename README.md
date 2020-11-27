@@ -8,26 +8,6 @@ Personal Website: http://richiewong.co.uk/
 _Python Libaries: Pandas, numpy, Matplotlib, seaborn, Scikit Learn, TensorFlow, GeoPandas, Bokeh, Folium_
 
 ---
-
-## Statistical Hypothesis Testing
-<br />
-
-<img align="left" width="250" height="150" img src="images/ab-testing.png"> **[A/B Testing Webpage Design for Conversions](https://www.kaggle.com/richieone13/a-b-testing-example)**
-
-A/B testing on two different designs the control and experiemental landing pages. Note - this is a simple experiment which does not factor in the funnel and journey to conversion or track bounce rate etc.
-
----
-## Regression Problems
-
-### [House Price Prediction:](https://github.com/Richieone13/house-price-prediction) 
-* Exploratory Data Analysis and creating visualisation of the Califorina Housing Market
-* Comparison of performance in different ML models, incl. Linear Regression Model, SVR, DecisionTree and RandomForest
-* Undertaking: Data Cleaning, One-Hot Encoding, CrossValidation, GridSearch, RandomizeGridSearch
-* *Size of Dataset: 20,640 entries with set of 10 features*
-
-<img src="images/california-housing-prices-plot.png" width="400">
-
----
 ## Classification problems
 
 <br />
@@ -51,6 +31,27 @@ Predicting customer churn for a telecommunication technology company and applyin
 * Exploratory Data Analysis and creating visualisation for songs in Spotify
 * 72% accuracy to predict whether the person likes or dislikes a song using Decision Tree Model
 * *Size of Dataset: 2,017 entries with set of 17 features*
+
+---
+
+## Statistical Hypothesis Testing
+<br />
+
+<img align="left" width="250" height="150" img src="images/ab-testing.png"> **[A/B Testing Webpage Design for Conversions](https://www.kaggle.com/richieone13/a-b-testing-example)**
+
+A/B testing on two different designs the control and experiemental landing pages. Note - this is a simple experiment which does not factor in the funnel and journey to conversion or track bounce rate etc.
+
+---
+
+## Regression Problems
+
+### [House Price Prediction:](https://github.com/Richieone13/house-price-prediction) 
+* Exploratory Data Analysis and creating visualisation of the Califorina Housing Market
+* Comparison of performance in different ML models, incl. Linear Regression Model, SVR, DecisionTree and RandomForest
+* Undertaking: Data Cleaning, One-Hot Encoding, CrossValidation, GridSearch, RandomizeGridSearch
+* *Size of Dataset: 20,640 entries with set of 10 features*
+
+<img src="images/california-housing-prices-plot.png" width="400">
 
 ---
 # Data Discovery
