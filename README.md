@@ -79,6 +79,9 @@ Exploratory Data Analysis on the TedTalk Dataset from established to 2017. Using
 
 <br />
 
+## Power BI Reports
+<br />
+
 **[London Airbnb Power BI Report:](https://app.powerbi.com/view?r=eyJrIjoiNDJmNjM0ODAtZGExOC00OTk2LWFhNGItMjA1YjMyNzg4ZjJiIiwidCI6IjA3OGU4ZTc5LTE3YTctNGJkOS05MmMyLWRkZDQ1YWU4NmJkZCJ9&pageName=ReportSectiona1d10cfd8e4aa0cde1ec)**
 
 <img src="images/london-airbnb-snapshot.JPG" width="600" height="338.39">
