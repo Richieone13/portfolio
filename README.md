@@ -10,7 +10,6 @@ _Python Libaries: Pandas, numpy, Matplotlib, seaborn, Scikit Learn, TensorFlow, 
 ---
 ## Classification problems
 
-<br />
 
 <img align="left" width="250" height="150" img src="images/customer-churn.jpeg"> **[Exploratory Data Analysis Customers Profile](https://www.kaggle.com/richieone13/1-churn-notebook-eda)**
 
@@ -25,6 +24,7 @@ Predicting customer churn for a telecommunication technology company and applyin
 Classification problem to predict whether the applicant will be eligible for a loan. Exploratory Data Analysis, 80% accuracy to predict whether the applicant is eligable for a loan using Logisitic Regression-CrossValidation. Dataset Size: 614 entries with set of 13 features.
 
 <br />
+<br />
 
 **[Prediciting if the user likes these songs:](https://github.com/Richieone13/spotify-classifier)**
 * Classification problem to predict whether the likes or dislikes a song
@@ -33,8 +33,6 @@ Classification problem to predict whether the applicant will be eligible for a l
 * *Size of Dataset: 2,017 entries with set of 17 features*
 
 <br />
-
----
 
 ## Statistical Hypothesis Testing
 
@@ -45,7 +43,6 @@ A/B testing on two different designs the control and experiemental landing pages
 
 <br />
 
----
 
 ## Regression Problems
 
@@ -55,9 +52,7 @@ Exploratory Data Analysis of the Califorina Housing Market. Comparison of perfor
 
 <br />
 
----
-
-# Data Discovery
+## Data Discovery
 <br />
 
 <img align="left" width="250" height="150" img src="images/new-york-skyline.jpg"> **[Airbnb New York EDA and Predictive Modelling](https://www.kaggle.com/richieone13/airbnb-new-york-eda-and-predictive-modelling)**
@@ -85,9 +80,10 @@ Being a fan of movies myself, I wanted to learn more about the Golden Globe awar
 
 Exploratory Data Analysis on the TedTalk Dataset from established to 2017. Using the panda library to answer questions about a real-world datasets - "best practices" for using pandas. Answering interesting questions like: What were the "best" events in TED history to attend? Which TedTalk provoke the most online discussion? Which occupations deliver the funniest TED talks on average?
 
+---
+<br />
 
-# Reporting Power BI
-### [London Airbnb Power BI Report:](https://app.powerbi.com/view?r=eyJrIjoiNDJmNjM0ODAtZGExOC00OTk2LWFhNGItMjA1YjMyNzg4ZjJiIiwidCI6IjA3OGU4ZTc5LTE3YTctNGJkOS05MmMyLWRkZDQ1YWU4NmJkZCJ9&pageName=ReportSectiona1d10cfd8e4aa0cde1ec)
+**[London Airbnb Power BI Report:](https://app.powerbi.com/view?r=eyJrIjoiNDJmNjM0ODAtZGExOC00OTk2LWFhNGItMjA1YjMyNzg4ZjJiIiwidCI6IjA3OGU4ZTc5LTE3YTctNGJkOS05MmMyLWRkZDQ1YWU4NmJkZCJ9&pageName=ReportSectiona1d10cfd8e4aa0cde1ec)**
 
 <img src="images/london-airbnb-snapshot.JPG" width="600" height="338.39">
 
