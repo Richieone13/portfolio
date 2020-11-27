@@ -18,13 +18,13 @@ _Python Libaries: Pandas, numpy, Matplotlib, seaborn, Scikit Learn, TensorFlow, 
 
 Predicting customer churn for a telecommunication technology company and applying various ML models. I focus on understanding the demographics, profile, and serivces that can influence customer churning and applyng that to build an effective and practical ML model.
 
-### [Predicting if a Loan Application is Successful:](https://github.com/Richieone13/loan-prediction)
-* Classification problem to predict whether the applicant will be eligible for a loan
-* Exploratory Data Analysis and creating visualisation of the dataset
-* 80% accuracy to predict whether the applicant is eligable for a loan using Logisitic Regression-CrossValidation
-* *Size of Dataset: 614 entries with set of 13 features*
+<br />
 
-<img src="images/unsplash-house.png" width="400" height="300">
+<img align="left" width="250" height="150" src="images/unsplash-house.png"> **[Predicting if a Loan Application is Successful](https://github.com/Richieone13/loan-prediction)**
+
+Classification problem to predict whether the applicant will be eligible for a loan. Exploratory Data Analysis, 80% accuracy to predict whether the applicant is eligable for a loan using Logisitic Regression-CrossValidation. Dataset Size: 614 entries with set of 13 features.
+
+<br />
 
 ### [Prediciting if the user likes these songs:](https://github.com/Richieone13/spotify-classifier) 
 * Classification problem to predict whether the likes or dislikes a song
