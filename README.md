@@ -32,14 +32,18 @@ Predicting customer churn for a telecommunication technology company and applyin
 * 72% accuracy to predict whether the person likes or dislikes a song using Decision Tree Model
 * *Size of Dataset: 2,017 entries with set of 17 features*
 
+<br />
+
 ---
 
 ## Statistical Hypothesis Testing
-<br />
 
 <img align="left" width="250" height="150" img src="images/ab-testing.png"> **[A/B Testing Webpage Design for Conversions](https://www.kaggle.com/richieone13/a-b-testing-example)**
 
+
 A/B testing on two different designs the control and experiemental landing pages. Note - this is a simple experiment which does not factor in the funnel and journey to conversion or track bounce rate etc.
+
+<br />
 
 ---
 
@@ -52,8 +56,10 @@ A/B testing on two different designs the control and experiemental landing pages
 * *Size of Dataset: 20,640 entries with set of 10 features*
 
 <img src="images/california-housing-prices-plot.png" width="400">
+<br />
 
 ---
+
 # Data Discovery
 <br />
 
@@ -62,18 +68,17 @@ A/B testing on two different designs the control and experiemental landing pages
 Opportunity to work on complete ready dataset (~49,000 listings) and finding interesting trends - incl. finding the market value of the rent for appartment + shared room between the different boroughs within New York. Exploring different libaries: GeoPandas, Bokeh, Folium
 
 <br />
-<br />
 
 <img align="left" width="250" height="150" img src="images/college-basketball.jpg"> **[Exploratory Data Analysis 🏀 College Basketball](https://www.kaggle.com/richieone13/exploratory-data-analysis-eda)**
 
 Exploratory Data Analysis in USA College Basketball (2015-2019) dataset. From a young age my passion is playing and watching basketball. The motivation is to learn the history of college basketball and what is the formula for success within a team.
 
+<br />
 
 <img align="left" width="250" height="150" img src="images/golden-globe.png"> **[EDA + Feature Engineering - Golden Globe Awards](https://www.kaggle.com/richieone13/eda-feature-engineering-golden-globe-awards)**
 
 Being a fan of movies myself, I wanted to learn more about the Golden Globe awards and trends. Here I focus on feature engineering to be able to gather more meaningful insight of the different types of awards and succesful movies, directors and actors/actresses.
 
-<br />
 <br />
 
 ### [Exploring the TEDTalk Dataset:](https://github.com/Richieone13/ted-talk-discovery) 
