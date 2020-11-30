@@ -75,7 +75,7 @@ Being a fan of movies myself, I wanted to learn more about the Golden Globe awar
 
 <img align="left" width="250" height="150" img src="images/ted-logo.png"> **[Exploring the TEDTalk Dataset](https://github.com/Richieone13/ted-talk-discovery)**
 
-Exploratory Data Analysis on the TedTalk Dataset from established to 2017. Using the panda library to answer questions about a real-world datasets - "best practices" for using pandas. Answering interesting questions like: What were the "best" events in TED history to attend? Which TedTalk provoke the most online discussion? Which occupations deliver the funniest TED talks on average?
+Exploratory Data Analysis on the TedTalk Dataset from 2017. Using the panda library to answer questions about a real-world datasets - "best practices" for using pandas. Answering interesting questions like: What were the "best" events in TED history to attend? Which TedTalk provoke the most online discussion? Which occupations deliver the funniest TED talks on average?
 
 <br />
 
